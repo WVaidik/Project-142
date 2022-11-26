@@ -1,0 +1,9 @@
+.start {
+    font-size: 15px;
+    width: 100px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
